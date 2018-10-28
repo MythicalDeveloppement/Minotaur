@@ -17,10 +17,6 @@ namespace Minotaur
             InitializeComponent();
         }
 
-        public void onCreate()
-        {
-
-        }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
@@ -44,5 +40,6 @@ namespace Minotaur
                 }
             }
         }
+
     }
 }
