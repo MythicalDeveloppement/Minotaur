@@ -26,6 +26,7 @@ namespace Minotaur
 
         private void CheckKeyword(string word, Color color, int startIndex)
         {
+
             if (this.richTextBox1.Text.Contains(word))
             {
                 int index = -1;
