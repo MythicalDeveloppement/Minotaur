@@ -1,0 +1,15 @@
+{
+  "name": "minotaur",
+  "version": "1.0.0",
+  "description": "Free Text editor",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Minotaur"
+  },
+  "author": "AntDevPlus",
+  "license": "ISC"
+}
